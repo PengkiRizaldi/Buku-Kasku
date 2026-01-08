@@ -16,9 +16,10 @@
 
 Aplikasi ini dibangun menggunakan teknologi web standar untuk memastikan kecepatan dan kemudahan akses:
 
-* **HTML5**: Struktur konten aplikasi.
-* **CSS3**: Styling dan tata letak (layout).
-* **JavaScript (ES6+)**: Logika perhitungan dan pengelolaan data.
+* **HTML**
+* **CSS**
+* **JavaScript**
+* * **TailWind**
 
 ## 📦 Cara Penggunaan
 
